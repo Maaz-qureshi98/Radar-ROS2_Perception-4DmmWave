@@ -12,7 +12,7 @@ Used for SLAM (Simultaneous Localization and Mapping) with 3D RBD-D (Oak-D Pro C
 # ROS2 bag convert to ROS1
 rosbags-convert --src rosbag2_2024_09_19-14_25_19 --dst ./rosbag2_2024_09_19-14_25_19_ros.bag
 
-# altosRadar ROS1 Setup
+# ROS1 Setup Below
 1. git clone https://github.com/Altos-Radar/altosRadarRos.git
 2. cd altosRadarRos
 3. catkin_make
