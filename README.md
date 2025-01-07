@@ -1,5 +1,5 @@
 # ROS2 and ROS1 based Radar drivers on C++
-Used for SLAM (Simultaneous Localization and Mapping) with 3D RBD-D (Oak-D Pro Camera) x 4D Altos Radar for Volumteric Mapping with Mobile Robots.
+Used for SLAM (Simultaneous Localization and Mapping) with 3D RBD-D (Oak-D Pro Camera) x 4D Altos Radar for 3D Dense Volumteric Mapping with Mobile Robots.
 
 # ROS2 REAL-TIME SETUP: Copying Radar drivers to/inside Robot 
 1. SSH to Robot i.e. ubuntu@192.168.186.3
