@@ -6,7 +6,7 @@ Used for SLAM (Simultaneous Localization and Mapping) with 3D RBD-D (Oak-D Pro C
 2. Enter Password i.e. robotname
 3. scp -r ~/robohub/turtlebot/altosRadarROS2 ubuntu@192.168.186.3:/home/ubuntu/
 4. sudo ip addr add 192.168.3.1/24 dev eth0
-(Above is to read the ethernet cable attached to controller of robot)
+(is to read the ethernet cable attached to controller of robot)
 5. ros2 run altosradar altosRadarParse
 
 # ROS2 bag convert to ROS1
